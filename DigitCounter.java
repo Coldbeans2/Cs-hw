@@ -10,11 +10,11 @@ public class DigitCounter
 {
    public static int go( int number )
 	{
-	   number = 234; 
+	   
 		int go = 0;
 		while( number > 0 )
 		{
-			number = number%10;
+			number = number/10;
 			go = go + 1;
 			
 	   

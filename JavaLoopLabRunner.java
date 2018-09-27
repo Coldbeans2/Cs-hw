@@ -15,8 +15,8 @@ public class JavaLoopLabRunner
 		//uncomment the class you need to test 
 		//as you need to test them
 		
-		//DigitAdder s = new DigitAdder();
-		DigitCounter s = new DigitCounter();
+		DigitAdder s = new DigitAdder();
+		//DigitCounter s = new DigitCounter();
 		//DigitMath s = new DigitMath();
 		//CountEvens s = new CountEvens();
 		//CountOdds s = new CountOdds();
